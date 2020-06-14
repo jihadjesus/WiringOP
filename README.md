@@ -1,3 +1,9 @@
+# WiringOP - OPi Zero mod
+
+Very dumb/fast mod to the below library to support the Orange Pi Zero.
+Isn't smart enough to figure out which device it's on, so if you're using an Orange Pi model that isn't running on the H2+ or H3 with the 26-pin header layout, you're not going to find any value for this.
+So quick and dirty, I didn't update any of the tooling/example code. All it does is correctly map pins for the OPi Zero
+
 # wiringOP README
 
 This is a modified WiringPi for OrangePi. We call it WiringOP.
